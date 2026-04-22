@@ -99,7 +99,8 @@ The rectifier stage was isolated and tested independently:
 
 This allowed direct observation of switching behaviour.
 
-![Rectifier test setup](images/hardware/rectifier-test-rig.jpg)
+![Rectifier test setup](images/scope/rectifier-test-rig_1.jpg)
+![Rectifier test setup](images/scope/rectifier-test-rig_2.jpg)
 *Figure 5 – Isolated synchronous rectifier test configuration*
 
 ---
