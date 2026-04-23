@@ -58,6 +58,7 @@ Observations:
 
 ![Phase voltage waveform](images/scope/generator-phase-sinewave-1.png)
 ![Phase voltage waveform](images/scope/generator-phase-sinewave-2.png)
+
 *Figure 3 – Clean sinusoidal phase voltage under resistive load (no controller connected)*
 
 Oscilloscope measurements confirmed:
