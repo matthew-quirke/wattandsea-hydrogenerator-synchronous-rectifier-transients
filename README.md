@@ -15,6 +15,7 @@ The system consists of:
 - Downstream DC-DC conversion stage
 
 ![System block diagram](images/hardware/system-block-diagram.png)
+
 *Figure 1 – High-level system block diagram (generator → rectifier → DC-DC stage)*
 
 The generator exhibited:
