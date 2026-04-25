@@ -104,6 +104,7 @@ This allowed direct observation of switching behaviour.
 
 ![Rectifier test setup](images/scope/rectifier-test-rig-1.jpg)
 ![Rectifier test setup](images/scope/rectifier-test-rig-2.jpg)
+
 *Figure 5 – Isolated synchronous rectifier test configuration*
 
 ---
@@ -136,6 +137,7 @@ Observed:
 ![IR1167 threshold instability](images/scope/ir1167-threshold-oscillation.png)
 
 *Figure 7 – Oscillation behaviour beginning at turn-on threshold*
+
 ---
 
 ## IR1169 Comparison
