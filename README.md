@@ -77,6 +77,7 @@ The controller was reverse engineered:
 - Focus placed on synchronous rectifier stage
 
 ![Reverse engineered schematic](images/diagrams/synchronous-rectifier-schematic.png)
+
 *Figure 4 – Reverse engineered synchronous rectifier stage (MOSFETs + driver IC)*
 
 Component identification (despite removed markings):
