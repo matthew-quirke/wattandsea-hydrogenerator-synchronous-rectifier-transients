@@ -133,6 +133,7 @@ Observed:
 👉 This confirmed the issue was intrinsic to the driver IC, not layout or damage.
 
 ![IR1167 threshold instability](images/scope/ir1167-threshold-oscillation.png)
+
 *Figure 7 – Oscillation behaviour beginning at turn-on threshold*
 ---
 
