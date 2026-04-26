@@ -151,7 +151,9 @@ Observed improvements:
 
 👉 Significant improvement over IR1167.
 ![IR1169 clean switching](images/scope/ir1169-turn-on-transient.png)
+
 *Figure 8 – IR1169 turn-on behaviour showing single controlled transient*
+
 ---
 
 ## Decoupling vs Startup Behaviour
@@ -175,7 +177,7 @@ With decoupling:
 
 Without decoupling:
 - Startup was 100% reliable
-- Transients remained present
+- Transients remained presenthttps://github.com/matthew-quirke/wattandsea-hydrogenerator-synchronous-rectifier-transients/blob/main/README.md
 
 Tested variations:
 - Different capacitor values (100 nF → 100 µF)
@@ -186,6 +188,7 @@ Result:
 - No combination resolved both issues simultaneously
 
 ![Startup failure waveform](images/scope/startup-failure-waveform.png)
+
 *Figure 10 – Failed startup condition showing unstable or missing gate drive*
 
 ---
