@@ -153,7 +153,16 @@ Observed improvements:
 
 ![IR1169 clean switching](images/scope/ir1169-turn-on-transient.png)
 
-*Figure 8 – IR1169 turn-on behaviour showing single controlled transient*
+*Figure 8 – IR1169 turn-on behaviour showing absence of turn on transients*
+
+![IR1169 clean switching](images/scope/ir1169-turn-on-transient-01.png)
+
+*Figure 9 – IR1169 turn-on behaviour showing absence of turn on transients*
+
+![IR1169 clean switching](images/scope/ir1169-turn-on-transient-off.png)
+
+*Figure 10 – IR1169 turn-on behaviour showing absence of turn off transients*
+
 
 ---
 
