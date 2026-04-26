@@ -150,6 +150,7 @@ Observed improvements:
 - Stable switching behaviour
 
 👉 Significant improvement over IR1167.
+
 ![IR1169 clean switching](images/scope/ir1169-turn-on-transient.png)
 
 *Figure 8 – IR1169 turn-on behaviour showing single controlled transient*
