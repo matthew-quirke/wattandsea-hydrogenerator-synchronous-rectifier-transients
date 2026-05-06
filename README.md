@@ -4,7 +4,7 @@
 **Matthew Quirke — 2025**
 
 
-![Watt&Sea 600 W Hydrogenerator](images/general/watt&sea-general.png)
+![Watt&Sea Hydrogenerator](images/general/watt&sea-general.png)
 
 ---
 
