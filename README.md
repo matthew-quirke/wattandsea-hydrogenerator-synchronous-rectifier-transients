@@ -1,5 +1,5 @@
 # Switching Transients in a Synchronous Rectifier  
-## Watt&Sea 600 W Hydrogenerator
+## Watt&Sea Hydrogenerator
 
 **Matthew Quirke — 2025**
 
