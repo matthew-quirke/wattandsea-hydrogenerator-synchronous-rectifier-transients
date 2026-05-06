@@ -208,7 +208,7 @@ Result:
 
 ## Root Cause Hypothesis
 
-The behaviour is consistent with a VCC ramp / UVLO interaction:
+The behaviour is consistent with a VCC ramp / UVLO interaction but needs further investigation.
 
 - Decoupling increases effective supply capacitance
 - Slows VCC rise time
