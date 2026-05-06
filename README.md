@@ -148,7 +148,7 @@ Observed:
 A newer device (IR1169) was tested as a drop-in alternative.
 
 Observed improvements:
-- Single transient at turn-on
+- No transients at turn-on
 - No sustained oscillation
 - Stable switching behaviour
 
@@ -190,7 +190,7 @@ With decoupling:
 
 Without decoupling:
 - Startup was 100% reliable
-- Transients remained presenthttps://github.com/matthew-quirke/wattandsea-hydrogenerator-synchronous-rectifier-transients/blob/main/README.md
+- Transients remained present
 
 Tested variations:
 - Different capacitor values (100 nF → 100 µF)
