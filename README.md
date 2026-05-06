@@ -19,7 +19,7 @@ The system consists of:
 
 ![System block diagram](images/hardware/system-block-diagram.png)
 
-*Figure 1 – High-level system block diagram (generator → rectifier → DC-DC stage)*
+*Figure 1 – High-level system block diagram (Filter caps have been removed)*
 
 The generator exhibited:
 - Excessive vibration under load
